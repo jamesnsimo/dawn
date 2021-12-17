@@ -16,15 +16,8 @@
           "type": "share"
         }
       },
-      "block_order": [
-        "featured_image",
-        "title",
-        "share",
-        "content"
-      ]
+      "block_order": ["featured_image", "title", "share", "content"]
     }
   },
-  "order": [
-    "main"
-  ]
+  "order": ["main"]
 }

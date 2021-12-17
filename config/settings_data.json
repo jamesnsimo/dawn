@@ -22,9 +22,7 @@
               }
             }
           },
-          "block_order": [
-            "announcement-bar-0"
-          ]
+          "block_order": ["announcement-bar-0"]
         }
       }
     },
@@ -52,10 +50,7 @@
               "type": "text"
             }
           },
-          "block_order": [
-            "menu",
-            "text"
-          ]
+          "block_order": ["menu", "text"]
         }
       }
     }
